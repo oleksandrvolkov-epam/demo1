@@ -1,5 +1,3 @@
 тестовый
 new values
 adding via git gui
-
-remove after reset
